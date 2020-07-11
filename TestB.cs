@@ -8,6 +8,9 @@ public class TestB : MonoBehaviour
     private int _x; // = 0
     private Bleder _bleder = new Bleder();
     
+
+
+    
     // Start is called before the first frame update
     void Start()
     {
